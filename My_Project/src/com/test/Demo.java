@@ -12,6 +12,8 @@ public class Demo {
 		int b=4;
 		int c =5;
 		int ans = a+b+c;
+		
+		int producr = a*b*c;
 				
 
 				
