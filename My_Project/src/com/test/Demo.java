@@ -12,6 +12,8 @@ public class Demo {
 		
 		
 		System.out.println("new method");
+		
+		int c = a + b;
 
 	}
 
