@@ -5,6 +5,10 @@ public class Demo {
 		// TODO Auto-generated method stub
 		
 		System.out.println("program to print prine nym");
+
+	       System.out.println("new method");
+
+		
 	}
 
 }
