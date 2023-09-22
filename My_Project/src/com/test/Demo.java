@@ -11,6 +11,12 @@ public class Demo {
 
 		int b=4;
 		int c =5;
+<<<<<<< HEAD
+=======
+		
+		int ans = a+b+c;
+				
+>>>>>>> feature
 		
 		int ans = a+b+c;
 				
