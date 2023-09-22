@@ -8,12 +8,15 @@ public class Demo {
 		System.out.println("program to print prine nym");
 
 		int a = 2;
-		int b = 4;
+
+		int b=4;
+		int c =5;
+		
+		int ans = a+b+c;
+				
+
 		
 		
-		System.out.println("new method");
-		
-		int c = a + b;
 
 	}
 
