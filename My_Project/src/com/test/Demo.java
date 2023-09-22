@@ -8,7 +8,8 @@ public class Demo {
 				System.out.println(" this line belongs to us");
 
 
-		System.out.println("hello  world");		
+		System.out.println("hello  world");	
+		System.out.println("my name is zohaib");
 
 
 	}
